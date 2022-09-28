@@ -1,0 +1,2 @@
+cd C:\Users\DELL\Desktop\New folder\Banking
+mvn clean install

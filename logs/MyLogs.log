@@ -1,0 +1,354 @@
+[INFO ] 2022-09-22 11:20:50.539 [main] BaseClass - URL is opened
+[INFO ] 2022-09-22 11:20:50.815 [main] BaseClass - Entered username
+[INFO ] 2022-09-22 11:20:50.943 [main] BaseClass - Entered Password
+[INFO ] 2022-09-22 11:20:51.527 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-22 11:20:54.634 [main] BaseClass - Login test passed
+[INFO ] 2022-09-22 11:53:14.700 [main] BaseClass - URL is opened
+[INFO ] 2022-09-22 11:53:15.137 [main] BaseClass - Entered username
+[INFO ] 2022-09-22 11:53:15.280 [main] BaseClass - Entered Password
+[INFO ] 2022-09-22 11:53:18.389 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-22 11:53:21.413 [main] BaseClass - Login test passed
+[INFO ] 2022-09-22 12:32:41.551 [main] BaseClass - URL is opened
+[INFO ] 2022-09-22 12:32:41.741 [main] BaseClass - Entered username
+[INFO ] 2022-09-22 12:32:41.860 [main] BaseClass - Entered Password
+[INFO ] 2022-09-22 12:32:43.209 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-22 12:32:46.259 [main] BaseClass - Login test passed
+[INFO ] 2022-09-22 12:33:42.801 [main] BaseClass - URL is opened
+[INFO ] 2022-09-22 12:33:42.968 [main] BaseClass - Entered username
+[INFO ] 2022-09-22 12:33:43.020 [main] BaseClass - Entered Password
+[INFO ] 2022-09-22 12:33:45.647 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-22 12:33:48.659 [main] BaseClass - Login test passed
+[INFO ] 2022-09-22 12:37:25.241 [main] BaseClass - URL is opened
+[INFO ] 2022-09-22 12:37:25.552 [main] BaseClass - Entered username
+[INFO ] 2022-09-22 12:37:25.676 [main] BaseClass - Entered Password
+[INFO ] 2022-09-22 12:37:27.858 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-22 12:37:30.873 [main] BaseClass - Login test passed
+[INFO ] 2022-09-22 13:08:15.414 [main] BaseClass - URL is opened
+[INFO ] 2022-09-22 13:08:15.683 [main] BaseClass - Entered username
+[INFO ] 2022-09-22 13:08:15.966 [main] BaseClass - Entered Password
+[INFO ] 2022-09-22 13:08:19.251 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-22 13:08:22.277 [main] BaseClass - Login test passed
+[INFO ] 2022-09-23 17:11:36.315 [main] BaseClass - URL is opened
+[INFO ] 2022-09-23 17:11:36.618 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 17:11:36.752 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 17:11:39.082 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 17:15:41.627 [main] BaseClass - URL is opened
+[INFO ] 2022-09-23 17:15:42.048 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 17:15:42.170 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 17:15:45.220 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 17:15:48.249 [main] BaseClass - Login test passed
+[INFO ] 2022-09-23 17:20:32.412 [main] BaseClass - URL is opened
+[INFO ] 2022-09-23 17:20:33.131 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 17:20:33.274 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 17:20:37.719 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 17:20:40.734 [main] BaseClass - Login test passed
+[INFO ] 2022-09-23 19:03:05.334 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 19:03:05.449 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 19:03:06.018 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 19:04:04.238 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 19:04:04.442 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 19:04:05.161 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 19:06:23.490 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 19:06:23.651 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 19:06:24.273 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 19:07:39.906 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 19:07:40.020 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 19:07:40.020 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 19:09:16.656 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 19:09:16.900 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 19:09:22.303 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 19:10:40.501 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 19:10:40.792 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 19:10:44.236 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 19:12:26.947 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 19:12:27.092 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 19:12:30.195 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 19:16:22.162 [main] BaseClass - Entered username
+[INFO ] 2022-09-23 19:16:22.724 [main] BaseClass - Entered Password
+[INFO ] 2022-09-23 19:16:25.240 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-23 19:16:32.374 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-23 19:16:35.918 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-23 19:16:36.036 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-23 19:16:36.161 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-23 19:16:36.270 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-23 19:16:36.379 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-23 19:16:36.478 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-23 19:16:36.605 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-23 19:16:36.731 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-23 19:16:36.823 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-23 19:16:36.893 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 13:04:05.209 [main] BaseClass - URL is opened
+[INFO ] 2022-09-26 13:04:05.638 [main] BaseClass - Entered username
+[INFO ] 2022-09-26 13:04:05.942 [main] BaseClass - Entered Password
+[INFO ] 2022-09-26 13:04:08.920 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 13:04:11.934 [main] BaseClass - Login test passed
+[INFO ] 2022-09-26 13:13:50.647 [main] BaseClass - Entered username
+[INFO ] 2022-09-26 13:13:50.892 [main] BaseClass - Entered Password
+[INFO ] 2022-09-26 13:13:52.818 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 13:14:01.744 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-26 13:14:04.976 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-26 13:14:05.043 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-26 13:14:05.149 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-26 13:14:05.248 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-26 13:14:05.375 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-26 13:14:05.500 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-26 13:14:05.625 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-26 13:14:05.787 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-26 13:14:05.898 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-26 13:14:05.994 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 14:37:10.764 [main] BaseClass - URL is opened
+[INFO ] 2022-09-26 14:37:11.085 [main] BaseClass - Entered username
+[INFO ] 2022-09-26 14:37:11.415 [main] BaseClass - Entered Password
+[INFO ] 2022-09-26 14:37:13.034 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 14:37:16.052 [main] BaseClass - Login test passed
+[INFO ] 2022-09-26 14:46:13.244 [main] BaseClass - Entered username
+[INFO ] 2022-09-26 14:46:13.398 [main] BaseClass - Entered Password
+[INFO ] 2022-09-26 14:46:15.161 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 14:46:22.273 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-26 14:46:27.192 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-26 14:46:27.419 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-26 14:46:27.547 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-26 14:46:27.686 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-26 14:46:27.822 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-26 14:46:27.941 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-26 14:46:28.052 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-26 14:46:28.174 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-26 14:46:28.272 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-26 14:46:28.344 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 16:13:36.407 [main] BaseClass - Entered username
+[INFO ] 2022-09-26 16:13:36.530 [main] BaseClass - Entered Password
+[INFO ] 2022-09-26 16:13:42.267 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 16:13:49.472 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-26 16:14:44.332 [main] BaseClass - Entered username
+[INFO ] 2022-09-26 16:14:44.464 [main] BaseClass - Entered Password
+[INFO ] 2022-09-26 16:14:47.641 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 16:14:54.771 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-26 16:14:57.986 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-26 16:14:58.105 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-26 16:14:58.241 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-26 16:14:58.343 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-26 16:14:58.466 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-26 16:14:58.574 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-26 16:14:58.736 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-26 16:14:58.905 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-26 16:14:59.025 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-26 16:14:59.106 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 16:15:49.764 [main] BaseClass - Entered username
+[INFO ] 2022-09-26 16:15:50.445 [main] BaseClass - Entered Password
+[INFO ] 2022-09-26 16:15:53.164 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 16:16:00.313 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-26 16:16:03.527 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-26 16:16:03.655 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-26 16:16:03.796 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-26 16:16:03.920 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-26 16:16:04.055 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-26 16:16:04.158 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-26 16:16:04.276 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-26 16:16:04.418 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-26 16:16:31.848 [main] BaseClass - Entered username
+[INFO ] 2022-09-26 16:16:32.039 [main] BaseClass - Entered Password
+[INFO ] 2022-09-26 16:16:35.637 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-26 16:16:42.764 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-26 16:16:45.921 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-26 16:16:46.139 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-26 16:16:46.266 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-26 16:16:46.389 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-26 16:16:46.556 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-26 16:16:46.659 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-26 16:16:46.777 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-26 16:16:46.946 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-27 12:28:56.227 [main] BaseClass - URL is opened
+[INFO ] 2022-09-27 12:28:56.619 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 12:28:56.998 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 12:28:58.680 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 12:29:01.702 [main] BaseClass - Login test passed
+[INFO ] 2022-09-27 12:29:07.835 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 12:29:07.981 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 12:29:09.870 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 12:29:17.021 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-27 12:29:22.541 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-27 12:29:22.659 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-27 12:29:22.805 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-27 12:29:22.911 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-27 12:29:23.033 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-27 12:29:23.295 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-27 12:29:23.450 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-27 12:29:23.655 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-27 12:29:23.806 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-27 12:29:23.936 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 12:30:17.259 [main] BaseClass - URL is opened
+[INFO ] 2022-09-27 12:30:17.926 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 12:30:18.271 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 12:30:18.772 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 12:30:21.793 [main] BaseClass - Login test passed
+[INFO ] 2022-09-27 12:30:27.061 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 12:30:27.941 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 12:30:30.302 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 12:30:37.421 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-27 12:30:41.846 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-27 12:30:41.977 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-27 12:30:42.286 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-27 12:30:42.437 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-27 12:30:42.657 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-27 12:30:42.809 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-27 12:30:42.990 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-27 12:30:43.186 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-27 12:30:43.314 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-27 12:30:43.436 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 15:07:09.593 [main] BaseClass - URL is opened
+[INFO ] 2022-09-27 15:07:09.799 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 15:07:09.938 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 15:07:11.718 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 15:07:14.886 [main] BaseClass - Login test passed
+[INFO ] 2022-09-27 15:07:20.954 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 15:07:21.508 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 15:07:24.840 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 15:07:32.012 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-27 15:07:38.920 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-27 15:07:39.012 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-27 15:07:39.140 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-27 15:07:39.241 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-27 15:07:39.366 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-27 15:07:39.471 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-27 15:07:39.615 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-27 15:07:39.769 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-27 15:07:39.872 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-27 15:07:39.948 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 17:51:59.201 [main] BaseClass - URL is opened
+[INFO ] 2022-09-27 17:51:59.354 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 17:51:59.449 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 17:52:00.962 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 17:52:03.984 [main] BaseClass - Login test passed
+[INFO ] 2022-09-27 17:52:08.753 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 17:52:08.901 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 17:52:10.187 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 17:52:19.969 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-27 17:52:23.130 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-27 17:52:23.255 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-27 17:52:23.534 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-27 17:52:23.737 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-27 17:52:23.902 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-27 17:52:24.065 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-27 17:52:24.210 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-27 17:52:24.396 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-27 17:52:24.512 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-27 17:52:24.637 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 19:16:57.702 [main] BaseClass - URL is opened
+[INFO ] 2022-09-27 19:16:57.940 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 19:16:58.055 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 19:16:59.918 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 19:17:02.933 [main] BaseClass - Login test passed
+[INFO ] 2022-09-27 19:17:08.156 [main] BaseClass - Entered username
+[INFO ] 2022-09-27 19:17:08.292 [main] BaseClass - Entered Password
+[INFO ] 2022-09-27 19:17:09.837 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-27 19:17:19.205 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-27 19:17:22.309 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-27 19:17:22.379 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-27 19:17:22.523 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-27 19:17:22.631 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-27 19:17:22.765 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-27 19:17:22.904 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-27 19:17:23.054 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-27 19:17:23.213 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-27 19:17:23.466 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-27 19:17:23.600 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 10:51:27.004 [main] BaseClass - URL is opened
+[INFO ] 2022-09-28 10:51:27.179 [main] BaseClass - Entered username
+[INFO ] 2022-09-28 10:51:27.309 [main] BaseClass - Entered Password
+[INFO ] 2022-09-28 10:51:28.350 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 10:51:31.365 [main] BaseClass - Login test passed
+[INFO ] 2022-09-28 10:51:35.152 [main] BaseClass - Entered username
+[INFO ] 2022-09-28 10:51:35.276 [main] BaseClass - Entered Password
+[INFO ] 2022-09-28 10:51:36.251 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 10:51:44.559 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-28 10:51:47.689 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-28 10:51:47.764 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-28 10:51:47.854 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-28 10:51:47.943 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-28 10:51:48.048 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-28 10:51:48.150 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-28 10:51:48.280 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-28 10:51:48.410 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-28 10:51:48.488 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-28 10:51:48.555 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 11:28:56.572 [main] BaseClass - URL is opened
+[INFO ] 2022-09-28 11:28:56.757 [main] BaseClass - Entered username
+[INFO ] 2022-09-28 11:28:56.874 [main] BaseClass - Entered Password
+[INFO ] 2022-09-28 11:28:58.025 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 11:29:01.050 [main] BaseClass - Login test passed
+[INFO ] 2022-09-28 11:29:04.926 [main] BaseClass - Entered username
+[INFO ] 2022-09-28 11:29:05.059 [main] BaseClass - Entered Password
+[INFO ] 2022-09-28 11:29:06.057 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 11:29:14.956 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-28 11:29:18.121 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-28 11:29:18.234 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-28 11:29:18.359 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-28 11:29:18.475 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-28 11:29:18.593 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-28 11:29:18.791 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-28 11:29:18.912 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-28 11:29:19.086 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-28 11:29:19.216 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-28 11:29:19.320 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 11:40:23.037 [main] BaseClass - URL is opened
+[INFO ] 2022-09-28 11:40:23.182 [main] BaseClass - Entered username
+[INFO ] 2022-09-28 11:40:23.280 [main] BaseClass - Entered Password
+[INFO ] 2022-09-28 11:40:24.656 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 11:40:27.672 [main] BaseClass - Login test passed
+[INFO ] 2022-09-28 11:40:31.989 [main] BaseClass - Entered username
+[INFO ] 2022-09-28 11:40:32.084 [main] BaseClass - Entered Password
+[INFO ] 2022-09-28 11:40:33.120 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 11:40:41.285 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-28 11:40:44.448 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-28 11:40:44.521 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-28 11:40:44.617 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-28 11:40:44.704 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-28 11:40:44.877 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-28 11:40:45.030 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-28 11:40:45.114 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-28 11:40:45.248 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-28 11:40:45.350 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-28 11:40:45.428 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 12:00:49.694 [main] BaseClass - Entered username
+[INFO ] 2022-09-28 12:00:49.874 [main] BaseClass - Entered Password
+[INFO ] 2022-09-28 12:00:51.850 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 12:00:58.952 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-28 12:01:02.161 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-28 12:01:02.334 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-28 12:01:02.545 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-28 12:01:02.637 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-28 12:01:02.738 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-28 12:01:02.824 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-28 12:01:02.920 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-28 12:01:03.053 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-28 12:01:03.157 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-28 12:01:06.710 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 12:08:59.731 [main] BaseClass - Entered username
+[INFO ] 2022-09-28 12:08:59.869 [main] BaseClass - Entered Password
+[INFO ] 2022-09-28 12:09:01.605 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 12:09:08.706 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-28 12:09:11.827 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-28 12:09:11.934 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-28 12:09:12.117 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-28 12:09:12.204 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-28 12:09:12.295 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-28 12:09:12.381 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-28 12:09:12.474 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-28 12:09:12.604 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-28 12:09:12.686 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-28 12:09:17.042 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 12:11:43.093 [main] BaseClass - Entered username
+[INFO ] 2022-09-28 12:11:43.984 [main] BaseClass - Entered Password
+[INFO ] 2022-09-28 12:11:46.140 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 12:11:53.241 [main] BaseClass - Click on new customer
+[INFO ] 2022-09-28 12:12:07.196 [main] BaseClass - Entered Customer name
+[INFO ] 2022-09-28 12:12:07.277 [main] BaseClass - Click on Gender
+[INFO ] 2022-09-28 12:12:07.572 [main] BaseClass - Entered customer address
+[INFO ] 2022-09-28 12:12:07.673 [main] BaseClass - Entered customer City
+[INFO ] 2022-09-28 12:12:07.790 [main] BaseClass - Entered customer state
+[INFO ] 2022-09-28 12:12:07.886 [main] BaseClass - Entered customer pin
+[INFO ] 2022-09-28 12:12:07.988 [main] BaseClass - Entered customer mobile number
+[INFO ] 2022-09-28 12:12:08.116 [main] BaseClass - Entered customer Email Id
+[INFO ] 2022-09-28 12:12:08.200 [main] BaseClass - Entered customer password
+[INFO ] 2022-09-28 12:12:11.111 [main] BaseClass - Click on Submit
+[INFO ] 2022-09-28 12:12:14.154 [main] BaseClass - New Customer added successfully
